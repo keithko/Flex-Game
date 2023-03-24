@@ -10,12 +10,12 @@ namespace FunctionOpdracht1
             Program program = new Program();
 
             program.Run(); //roep hier de function Run aan
-            program.ShowThis("Hey!"); //roep hier de function ShowThis aan
+            program.ShowThis("hooi"); //roep hier de function ShowThis aan
         }
 
         private void Run()
         {
-            Console.WriteLine("function run reporting!");
+            Console.WriteLine("function run reporting en doei!");
         }
 
 
