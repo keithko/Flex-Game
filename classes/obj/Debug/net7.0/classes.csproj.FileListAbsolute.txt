@@ -1,0 +1,15 @@
+C:\Users\Student\git\Flex-Game\.git\classes\bin\Debug\net7.0\classes.exe
+C:\Users\Student\git\Flex-Game\.git\classes\bin\Debug\net7.0\classes.deps.json
+C:\Users\Student\git\Flex-Game\.git\classes\bin\Debug\net7.0\classes.runtimeconfig.json
+C:\Users\Student\git\Flex-Game\.git\classes\bin\Debug\net7.0\classes.dll
+C:\Users\Student\git\Flex-Game\.git\classes\bin\Debug\net7.0\classes.pdb
+C:\Users\Student\git\Flex-Game\.git\classes\obj\Debug\net7.0\classes.csproj.AssemblyReference.cache
+C:\Users\Student\git\Flex-Game\.git\classes\obj\Debug\net7.0\classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\git\Flex-Game\.git\classes\obj\Debug\net7.0\classes.AssemblyInfoInputs.cache
+C:\Users\Student\git\Flex-Game\.git\classes\obj\Debug\net7.0\classes.AssemblyInfo.cs
+C:\Users\Student\git\Flex-Game\.git\classes\obj\Debug\net7.0\classes.csproj.CoreCompileInputs.cache
+C:\Users\Student\git\Flex-Game\.git\classes\obj\Debug\net7.0\classes.dll
+C:\Users\Student\git\Flex-Game\.git\classes\obj\Debug\net7.0\refint\classes.dll
+C:\Users\Student\git\Flex-Game\.git\classes\obj\Debug\net7.0\classes.pdb
+C:\Users\Student\git\Flex-Game\.git\classes\obj\Debug\net7.0\classes.genruntimeconfig.cache
+C:\Users\Student\git\Flex-Game\.git\classes\obj\Debug\net7.0\ref\classes.dll
